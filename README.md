@@ -6,3 +6,5 @@ Jessica - hobby project. It has been in development for several years. This repo
 Program basic structure:
 
 Each room is listened to through the threading. Information from the program is transmitted through the main controller ESP 32 to the controller in each room, which performs the task, or passes the information to the another microcontroller for execution.
+
+speech recognition models can be downloaded: https://alphacephei.com/vosk/models
